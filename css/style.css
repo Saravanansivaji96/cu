@@ -1,0 +1,142 @@
+body{
+  margin: auto;
+background-color: #e3fdfd;
+  text-align: center;
+  font-fami font-family: 'Merriweather', serif;
+}
+.dei{
+font-size: 2rem;
+}
+.EDITYOU{
+  font-size: 2rem;
+  color: #39A2DB;
+}
+h1{
+  color: #39A2DB;
+  font-size: 4em;
+
+  margin:50px auto 50px auto;
+  font-family: 'Akaya Kanadaka', cursive;
+}
+h2{
+  color:#39A2DB;
+  font-family: 'Akaya Kanadaka', cursive;
+  padding: 20px;
+}
+h3{
+  color:#39A2DB;
+  font-family: 'Pacifico', cursive;
+}
+
+hr{
+  border-top: 6px dotted gray;
+  width:4%;
+  margin: 100PX auto;
+}
+
+.topcontiner{
+
+  position: relative;
+  padding: 100PX;
+
+}
+.middlecontiner{
+  margin: 100px 0;
+
+
+
+
+}
+.bottomcontiner{
+margin: 100px 0;
+background-color: #66BFBF;
+padding: 50px 0 20px 0;
+
+}
+.colud1{
+  position:absolute;
+  left:300px;
+  right: 300px;
+
+}
+.colud2{
+  position: absolute;
+  right:  300px;
+  top: 50px;
+}
+
+.skill-row{
+  line-height: 2;
+  text-align: left;
+  margin:100px auto 100PX auto;
+  width: 50%;
+  img: 25%;
+}
+.coding{
+  width:25%;
+  float: left;
+  margin-right: 30px;
+
+}
+.de-coding{
+  width:23%;
+  float: right;
+  margin-right: 30px;
+}
+p{
+  color:#40514E;
+}
+.intro{
+    line-height: 200%;
+  margin:auto;
+  width: 30%
+}
+.come{
+margin: auto;
+width: 50%;
+}
+.contact{
+  margin: 40px auto 60px auto;
+
+width: 40%;
+}
+a{
+  color : #D62AD0;
+  font-family: 'Merriweather', serif;
+  margin:10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EDEDED;
+}
+.btn {
+  background: #61ad9e;
+  background-image: -webkit-linear-gradient(top, #61ad9e, #2980b9);
+  background-image: -moz-linear-gradient(top, #61ad9e, #2980b9);
+  background-image: -ms-linear-gradient(top, #61ad9e, #2980b9);
+  background-image: -o-linear-gradient(top, #61ad9e, #2980b9);
+  background-image: linear-gradient(to bottom, #61ad9e, #2980b9);
+  -webkit-border-radius: 19;
+  -moz-border-radius: 19;
+  border-radius: 19px;
+  font-family: 'Merriweather', serif;
+  color: #ffffff;
+  font-size: 28px;
+  padding: 8px 8px 8px 8px;
+  border: solid #1f628d 0px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cfcec;
+  background-image: -webkit-linear-gradient(top, #3cfcec, #3498db);
+  background-image: -moz-linear-gradient(top, #3cfcec, #3498db);
+  background-image: -ms-linear-gradient(top, #3cfcec, #3498db);
+  background-image: -o-linear-gradient(top, #3cfcec, #3498db);
+  background-image: linear-gradient(to bottom, #3cfcec, #3498db);
+  text-decoration: none;
+}
+.copyright{
+  color: #EDEDED;
+  font-size: 0.75rem;
+}
